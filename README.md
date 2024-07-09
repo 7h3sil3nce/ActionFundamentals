@@ -1,5 +1,6 @@
 # test workflow
 # test skip
+# test pull_request
 # GitHub Actions Fundamentals
 
 Repo for the `GitHub Actions Fundamentals` training.
